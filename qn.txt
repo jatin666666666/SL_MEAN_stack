@@ -1,0 +1,4 @@
+How to make the same folder go in different repo?does it has to do with the branch?
+git path? files cant be pushed?
+
+In git branch does the prev master data

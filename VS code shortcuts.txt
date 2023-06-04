@@ -3,3 +3,15 @@ doc --- to make the basic structure of html
 
 GIT commands
 . to add all files
+
+
+to push one of the folder to repository
+1. git init in folder
+2. git add files name or .
+3. git commit -m "message name"
+4. git remote add origin link_to_github_repo
+5. git push
+
+
+git checkout 
+git branch
