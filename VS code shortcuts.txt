@@ -1,2 +1,5 @@
 VS code shortcuts
 doc --- to make the basic structure of html
+
+GIT commands
+. to add all files
